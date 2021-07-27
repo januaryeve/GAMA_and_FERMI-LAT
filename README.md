@@ -3,6 +3,6 @@ An analysis of photon events from the GAMA and Fermi-LAT surveys
 
 To Do:
  
- [ ] Get fermipy
+ - [ ] Get fermipy
   
- [ ] Plot mass and group velocities
+ - [ ] Plot mass and group velocities
